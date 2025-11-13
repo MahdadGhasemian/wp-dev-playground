@@ -1,6 +1,25 @@
 # wp-dev-playground
 
-##
+## Table of Contents
+
+- [About](#about)
+- [Check List](#check-list)
+- [Quick Start](#quick-start)
+- [Access](#access)
+- [Getting Started with WordPress](#getting-started-with-wordpress)
+
+## About
+
+A sandbox for learning WordPress development — custom themes, plugins, and headless integration experiments.
+
+## Check List
+
+1. Installing and Getting Started with WordPress
+2. How to support multiple languages
+3. How to support RTL
+4. How to have Tailwind css
+
+## Quick Start
 
 ```bash
 docker compose up -d
@@ -28,13 +47,7 @@ For any access issues:
 - Verify your credentials in `local-creds.yml` and `.env` files.
 - Check that ports 8080, 8081, and 8082 are not blocked or used by other applications.
 
-This setup provides easy access to WordPress admin, database management tools, and the main site for your development playground.
-
-##
-
-A sandbox for learning WordPress development — custom themes, plugins, and headless integration experiments.
-
-👉 http://localhost:8080
+## Getting Started with WordPress
 
 Left Manu -> Appearance -> Themes -> Add Theme -> Search `Astra` -> Click on Install -> Activate
 

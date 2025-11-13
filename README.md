@@ -14,10 +14,10 @@ A sandbox for learning WordPress development — custom themes, plugins, and hea
 
 ## Check List
 
-1. Installing and Getting Started with WordPress
-2. How to support multiple languages
-3. How to support RTL
-4. How to have Tailwind css
+1. [x] Installing and Getting Started with WordPress
+2. [ ] How to support multiple languages
+3. [ ] How to support RTL
+4. [ ] How to have Tailwind css
 
 ## Quick Start
 

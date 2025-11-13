@@ -1,0 +1,48 @@
+# WordPress core files (optional if you want to track WP updates manually)
+wp-admin/
+wp-includes/
+
+# Sensitive files
+wp-config.php
+.env
+
+# Log files and debug files
+*.log
+debug.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Composer / Node / vendor / cache
+vendor/
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# WordPress uploads (optional: ignore if you don't want media in Git)
+wp-content/uploads/
+
+# Backup files
+*.bak
+*.zip
+*.sql
+*.tar.gz
+
+# Docker volumes or environment
+docker-compose.override.yml
+docker-compose.*.yml
+
+# Cache directories
+wp-content/cache/
+wp-content/backups/
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Local credentials file
+local-creds.yml

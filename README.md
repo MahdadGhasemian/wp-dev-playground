@@ -7,6 +7,13 @@
 - [Quick Start](#quick-start)
 - [Access](#access)
 - [Getting Started with WordPress](#getting-started-with-wordpress)
+- [Plugins](#plugins)
+  - [Elementor](#elementor)
+  - [Elementor Pro](#elementor-pro)
+- [Issues and Fixes](#issues-and-fixes)
+  - [WordPress About page shows "Not Found"](#wordpress-about-page-shows-not-found)
+  - [Maximum upload file size exceeded](#maximum-upload-file-size-exceeded)
+- [Resources](#resources)
 
 ## About
 

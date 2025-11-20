@@ -21,6 +21,7 @@ services:
       - ./.env
     volumes:
       - ./wp-content:/var/www/html/wp-content
+      - ./php-conf/uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
     depends_on:
       db:
         condition: service_healthy

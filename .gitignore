@@ -46,3 +46,5 @@ wp-content/backups/
 
 # Local credentials file
 local-creds.yml
+
+wp-content

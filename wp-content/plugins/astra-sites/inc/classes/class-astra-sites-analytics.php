@@ -709,6 +709,7 @@ if ( ! class_exists( 'Astra_Sites_Analytics' ) ) {
 				'numeric_values' => array(
 					'woopayments_banner_dismissed_count' => Astra_Sites_Page::get_instance()->get_setting( 'woopayments_banner_dismissed_count' ),
 				),
+				'steps_visited' => Astra_Sites_Page::get_instance()->get_setting( 'steps_visited' ),
 			);
 
 			if ( $import_complete ) {

@@ -54,3 +54,11 @@ Left Manu -> Appearance -> Themes -> Add Theme -> Search `Astra` -> Click on Ins
 Let's head over to Left Manue -> Plugins -> Add Plugin -> Search `Starter template elementor` -> Click on Install -> Activate
 
 ![Starter Template Elementor Plugin](./.images/starter-templates-elementor.png)
+
+### Issue "WordPress About page shows Not Found"
+
+Your permalink structure may be broken.
+
+Fix:
+  1. Go to WordPress Dashboard → Settings → Permalinks
+  2. Without changing anything, click Save Changes
